@@ -16,7 +16,7 @@ Document structure
     name: string
     type: string
     basetype: string
-    properties = {
+    properties: {
         userDescription: string
         quickAppVariables: array
         value: mixed
